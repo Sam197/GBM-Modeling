@@ -1,0 +1,3 @@
+**Using Geometric Brownian Motion (GBM) to Simulate Stock Prices**
+
+Developed and validated a Geometric Brownian Motion model to simulate stock price dynamics using historical S&P 500 ETF (SPY) data. Implemented rolling parameter estimation for drift and volatility, and evaluated model performance using RMSE, confidence intervals, and empirical coverage. Findings highlighted key trade-offs between model adaptability and stability, as well as the risks of overfitting when optimizing solely for error minimization. The project demonstrated GBM’s strengths as a theoretical framework while underscoring its limitations in practical financial forecasting, motivating exploration of more sophisticated models such as stochastic volatility and jump-diffusion processes.
